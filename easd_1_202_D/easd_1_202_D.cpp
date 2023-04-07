@@ -6,7 +6,4 @@ using namespace std;
 // menyelesaikan masalah tertentu secara efektif dan efisien. Dengan menggunakan 
 // algoritma, kita dapat memecahkan masalah dalam waktu yang lebih singkat dan dengan
 // cara yang lebih terorganisir dan sistematis.
-int main()
-{
-    std::cout << "Hello World!\n";
-}
+
