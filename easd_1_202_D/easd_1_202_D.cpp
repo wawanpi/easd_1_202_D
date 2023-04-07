@@ -37,9 +37,10 @@ using namespace std;
 //	  sementara Loglinear berarti kompleksitas yang berkaitan dengan perkalian dari ukuran masukan dan logaritma dari ukuran masukan. Binary search
 
 int arr[22]
+int mak;
 
 void input(int arr[22]) {
-	cout <<"masukan" << MAX << 
+	cout << "masukan" << endl;
 }
 
 
