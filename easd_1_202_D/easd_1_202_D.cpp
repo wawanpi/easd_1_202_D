@@ -36,9 +36,9 @@ using namespace std;
 //	  dua dari ukuran masukan. contohnya Insertion sort
 //	  sementara Loglinear berarti kompleksitas yang berkaitan dengan perkalian dari ukuran masukan dan logaritma dari ukuran masukan. Binary search
 
-const int MAK = 22;
+const int   MAK = 22;
 
-void input(int arr[22]) {
+void input() {
 	cout << "masukan" << endl;
 }
 
