@@ -32,5 +32,7 @@ using namespace std;
 //	  yang lebih baik daripada algoritma sorting lainnya karena insertion sort bekerja dengan cara membandingkan dan memindahkan elemen satu per satu,
 //	  sehingga pada data yang ukurannya kecil, jumlah perbandingan dan perpindahan elemen yang dilakukan tidak terlalu banyak.
 
-// 5. Quadratic dan Loglinear adalah dua jenis kompleksitas algoritma yang berbeda. Quadratic berarti kompleksitas algoritma yan
+// 5. Quadratic dan Loglinear adalah dua jenis kompleksitas algoritma yang berbeda. Quadratic berarti kompleksitas algoritma yang berkaitan dengan pangkat
+//	  dua dari ukuran masukan. contohnya Insertion sort
+//	  sementara Loglinear berarti kompleksitas yang berkaitan dengan perkalian dari ukuran masukan dan logaritma dari ukuran masukan. Binary search
 
