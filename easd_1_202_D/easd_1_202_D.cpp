@@ -28,5 +28,9 @@ using namespace std;
 //	  Penggunaan teknik pemrograman yang efisien: Teknik pemrograman seperti rekursi, iterasi, atau metode perhitungan numerik yang tepat dapat 
 //	  efisiensi program.
 
+// 4. algoritma yang paling efisien untuk mengurutkan data yang ukurannya kecil adalah insertion sort. di karnakan nsertion sort mampu memberikan performa 
+//	  yang lebih baik daripada algoritma sorting lainnya karena insertion sort bekerja dengan cara membandingkan dan memindahkan elemen satu per satu,
+//	  sehingga pada data yang ukurannya kecil, jumlah perbandingan dan perpindahan elemen yang dilakukan tidak terlalu banyak.
 
+// 5. Quadratic dan Loglinear adalah dua jenis kompleksitas algoritma yang berbeda. Quadratic berarti kompleksitas algoritma yan
 
